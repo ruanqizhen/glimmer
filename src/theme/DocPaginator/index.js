@@ -11,10 +11,10 @@ export default function DocPaginatorWrapper(props) {
       <DocPaginator {...props} />
 	  <br />
 	  <Giscus
-		repo='ruanqizhen/python_book'
-		repoId='R_kgDOKhrU6g'
+		repo='ruanqizhen/glimmer'
+		repoId='R_kgDORJsBGQ'
 		category='Announcements'
-		categoryId='DIC_kwDOKhrU6s4CaOFt'
+		categoryId='DIC_kwDORJsBGc4C1_EK'
 		mapping='pathname'
 		strict='1'
 		reactionsEnabled='1'
