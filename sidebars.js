@@ -11,11 +11,11 @@ const sidebars = {
     {
       type: 'link',
       label: 'GitHub 项目',
-      href: 'https://github.com/ruanqizhen/python_book',
+      href: 'https://github.com/ruanqizhen/glimmer',
     },
     {
       type: 'link',
-      label: '我的主页',
+      label: '编者的主页',
       href: 'https://qizhen.xyz',
     },
   ],
