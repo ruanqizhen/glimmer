@@ -5,7 +5,7 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'doc',
-      label: '前言',
+      label: '序',
       id: 'README',
     },
     {
