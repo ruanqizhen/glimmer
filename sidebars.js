@@ -11,6 +11,8 @@ const sidebars = {
 	'w01',
 	'w02',
 	'w03',
+	'w04',
+	'w05',
     {
       type: 'link',
       label: 'GitHub 项目',
@@ -18,8 +20,8 @@ const sidebars = {
     },
     {
       type: 'link',
-      label: '编者的博客',
-      href: 'https://blog.qizhen.xyz',
+      label: '编者的主页',
+      href: 'https://qizhen.xyz',
     },
   ],
 };
