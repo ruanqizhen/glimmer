@@ -22,7 +22,7 @@ const sidebars = {
     },
     {
       type: 'link',
-      label: '编者的主页',
+      label: '作者个人主页',
       href: 'https://qizhen.xyz',
     },
   ],
