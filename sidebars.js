@@ -18,6 +18,9 @@ const sidebars = {
 	'w08',
 	'w09',
 	'w10',
+	'w11',
+	'w12',
+	'w13',
     {
       type: 'link',
       label: 'GitHub 项目',
