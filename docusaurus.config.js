@@ -1,9 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-import {themes as prismThemes} from 'prism-react-renderer';
-const math = require('remark-math');
-const katex = require('rehype-katex');
+import { themes as prismThemes } from 'prism-react-renderer';
+import math from 'remark-math';
+import katex from 'rehype-katex';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -14,7 +14,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  projectName: 'glimer', // Usually your repo name.
+  organizationName: 'ruanqizhen',
+  projectName: 'glimmer',
   i18n: {
     defaultLocale: 'zh-cn',
     locales: ['zh-cn'],
@@ -66,7 +67,7 @@ const config = {
         hideOnScroll: true,
         title: '尘世微光',
         logo: {
-          alt: 'Python',
+          alt: '尘世微光',
           src: 'img/logo.png',
           href: '/'
         },
@@ -77,32 +78,14 @@ const config = {
       },
       zoomSelector: '.markdown img',
       metadata: [
-        {name: 'keywords', content: '尘世微光, 民间历史, 草根自传, 互联网记忆, 论坛时代, 家长里短, 纪实文学'},
-        {name: 'description', content: '收录了早年偶然保存的一些网友自传文章。这些文字真实记录了上个世纪中国普通百姓的家长里短与生活轨迹。'},
-        {name: 'author', content: 'Qizhen Ruan 阮奇桢'},
+        { name: 'keywords', content: '尘世微光, 民间历史, 草根自传, 互联网记忆, 论坛时代, 家长里短, 纪实文学' },
+        { name: 'description', content: '收录了早年偶然保存的一些网友自传文章。这些文字真实记录了上个世纪中国普通百姓的家长里短与生活轨迹。' },
+        { name: 'author', content: 'Qizhen Ruan 阮奇桢' },
       ],
     }
   ),
   plugins: [
-    function baiduPlugin(context, options) {
-      return {
-        name: 'baidu-plugin',
-        injectHtmlTags({content}) {
-          return {
-            postBodyTags: [`
-               <script type="text/javascript" src="https://hm.baidu.com/hm.js?b3f6e7ec9302021671173e3fad14f4cd"></script>
-               <script type="text/javascript">
-                 (function(c,l,a,r,i,t,y){
-                    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-                    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-                    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-                 })(window, document, "clarity", "script", "jxmn1qjx88");
-               </script>
-            `],
-          };
-        },
-      };
-    },
+    './src/plugin/plugin-analytics',
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
@@ -116,13 +99,13 @@ const config = {
   ],
   stylesheets: [
     {
-      href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
+      href: 'https://cdn.jsdelivr.net/npm/katex@0.16.33/dist/katex.min.css',
       type: 'text/css',
       integrity:
-        'sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM',
+        'sha384-fgYS3VC1089n2J3rVcEbXDHlnDLQ9B2Y1hvpQ720q1NvxCduQqT4JoGc4u2QCnzE',
       crossorigin: 'anonymous',
     },
   ],
 };
 
-module.exports = config;
+export default config;
