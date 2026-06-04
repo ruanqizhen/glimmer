@@ -23,6 +23,7 @@ const sidebars = {
 	'w13',
 	'w14',
 	'w15',
+	'w16',
     {
       type: 'link',
       label: 'GitHub 项目',
