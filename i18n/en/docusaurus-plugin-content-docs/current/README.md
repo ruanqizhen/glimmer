@@ -2,14 +2,14 @@
 hide_table_of_contents: true
 ---
 
-# Picking up Glimmers in the Digital Wasteland
+# Scavenging for Glimmers in the Digital Wasteland
 
-People often say that the Internet has a memory. However, that memory usually favors only important figures and major events, preferring the moments repeatedly illuminated by traffic and the spotlight. Meanwhile, the joys and sorrows left by ordinary people in the virtual world often fade even faster than their traces in reality.
+People often say the Internet has a long memory. Yet, that memory tends to favor the prominent and the profound, clinging to moments bathed in the relentless glow of the spotlight. In contrast, the quiet joys and sorrows of ordinary people left scattered across the virtual world often fade even faster than their footprints in reality.
 
-Many years ago, I was active on various internet forums, writing impassioned texts. However, when the tide of the era receded, those once bustling corners were shut down and faded into obscurity one after another. The moment the servers were powered off, the youthful whispers, life reflections, and poems and complaints typed late at night by countless people vanished into nothingness in an instant. Because I never backed them up, the scattered words and phrases I wrote myself can no longer be found, as if the evidence that I had ever been there was quietly erased by time.
+Years ago, I was a regular fixture on various online forums, pouring my heart out in passionate posts. But as the tides of the digital age shifted, those once-bustling corners of the web were quietly shut down, drifting into obscurity. The moment those servers went dark, the youthful whispers, midnight musings, and heartfelt poetry of countless strangers vanished into the ether. Having never thought to back them up, the scattered fragments of my own writing were lost too, as though time itself had erased the only proof that I was ever there.
 
-While organizing an old hard drive a few days ago, I unexpectedly discovered some files sealed by time. They were some posts accidentally saved more than twenty years ago, among which were my writings from that year, but more were trivial past events from the last century recounted by strangers on the internet. Since fate brought me to reunite with them, I decided to re-edit and compile these texts and publish them here.
+While organizing an old hard drive recently, I stumbled across a handful of files sealed away by time. They were old forum posts, accidentally saved over two decades ago. A few were my own writings from that era, but the vast majority were snippets of everyday life from the last century, recounted by strangers on the internet. Since fate had reunited me with these lost echoes, I decided to compile and publish them here.
 
-Compiling this collection is not only a commemoration of that bygone forum era but also an attempt to prove through this: every ordinary life has once lit up its own glimmer in the mortal world. Even if no one cheers, even if it is fleeting.
+This collection is not merely an elegy for a bygone era of the internet. It is an attempt to prove that every ordinary life has, at some point, sparked its own quiet glimmer in the mortal world—even if no one was there to applaud, and even if it was only fleeting.
 
-This serves as the preface.
+Consider this a prologue.
