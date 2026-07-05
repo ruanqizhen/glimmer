@@ -4,12 +4,12 @@ hide_table_of_contents: true
 
 # Scavenging for Glimmers in the Digital Wasteland
 
-People often say the Internet has a long memory. Yet, that memory tends to favor the prominent and the profound, clinging to moments bathed in the relentless glow of the spotlight. In contrast, the quiet joys and sorrows of ordinary people left scattered across the virtual world often fade even faster than their footprints in reality.
+They say the internet never forgets. But that memory is selective. It clings to the loud, the profound, and the spectacular—the moments bathed in the spotlight. Meanwhile, the quiet joys and heartbreaks of ordinary people, scattered across the digital wasteland, often fade faster than footprints in the mud.
 
-Years ago, I was a regular fixture on various online forums, pouring my heart out in passionate posts. But as the tides of the digital age shifted, those once-bustling corners of the web were quietly shut down, drifting into obscurity. The moment those servers went dark, the youthful whispers, midnight musings, and heartfelt poetry of countless strangers vanished into the ether. Having never thought to back them up, the scattered fragments of my own writing were lost too, as though time itself had erased the only proof that I was ever there.
+Years ago, I lived on online forums. I poured my heart out in impassioned, late-night posts. But as the digital tides shifted, those once-bustling corners of the web were quietly unplugged and left to rot. The moment the servers went dark, the midnight musings and heartfelt confessions of countless strangers vanished into thin air. I never thought to back anything up. My own scattered writings were lost right along with them, as though time itself had erased the only proof I was ever there.
 
-While organizing an old hard drive recently, I stumbled across a handful of files sealed away by time. They were old forum posts, accidentally saved over two decades ago. A few were my own writings from that era, but the vast majority were snippets of everyday life from the last century, recounted by strangers on the internet. Since fate had reunited me with these lost echoes, I decided to compile and publish them here.
+Then, recently, I was digging through an ancient hard drive and stumbled across a handful of files sealed away by time. They were old forum posts I had accidentally saved over two decades ago. A few were my own words, but the vast majority were snippets of everyday life from the tail end of the last century, written by complete strangers. Since fate had handed these lost echoes back to me, I decided to compile and publish them here.
 
-This collection is not merely an elegy for a bygone era of the internet. It is an attempt to prove that every ordinary life has, at some point, sparked its own quiet glimmer in the mortal world—even if no one was there to applaud, and even if it was only fleeting.
+This collection isn't just a nostalgic elegy for the early internet. It's an attempt to prove that every ordinary life—at some point, for some brief moment—sparked its own quiet glimmer in the dark. Even if no one was there to see it. Even if it was already gone.
 
 Consider this a prologue.

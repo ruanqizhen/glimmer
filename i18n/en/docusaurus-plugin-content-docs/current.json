@@ -12,7 +12,7 @@
     "description": "The label for link '作者个人主页' in sidebar 'tutorialSidebar', linking to 'https://qizhen.xyz'"
   },
   "sidebar.tutorialSidebar.doc.序": {
-    "message": "Preface",
+    "message": "Prologue",
     "description": "The label for the doc item '序' in sidebar 'tutorialSidebar', linking to the doc README"
   }
 }
