@@ -2,14 +2,14 @@
 hide_table_of_contents: true
 ---
 
-# 在数字荒原里，捡拾微光
+# Picking up Glimmers in the Digital Wasteland
 
-人们常说，互联网是有记忆的。但那份记忆往往只偏爱大人物与大事件，偏爱那些被流量与聚光灯反复照亮的瞬间。而普通人在虚拟世界里留下的悲欢离合，往往比在现实中的痕迹消散得更快。
+People often say that the Internet has a memory. However, that memory usually favors only important figures and major events, preferring the moments repeatedly illuminated by traffic and the spotlight. Meanwhile, the joys and sorrows left by ordinary people in the virtual world often fade even faster than their traces in reality.
 
-多年以前，我曾活跃于各大网络论坛，激扬文字。然而，当时代的潮水退去，那些曾经喧嚣的角落一个接一个地关停、隐没。服务器断电的那一刻，无数人的青春絮语、生活感悟，以及深夜敲下的诗句与牢骚，顷刻之间化为乌有。因为未曾备份，我自己写下的只言片语也已无处寻觅，仿佛曾经来过的证据，都已被时间悄然抹去。
+Many years ago, I was active on various internet forums, writing impassioned texts. However, when the tide of the era receded, those once bustling corners were shut down and faded into obscurity one after another. The moment the servers were powered off, the youthful whispers, life reflections, and poems and complaints typed late at night by countless people vanished into nothingness in an instant. Because I never backed them up, the scattered words and phrases I wrote myself can no longer be found, as if the evidence that I had ever been there was quietly erased by time.
 
-前些日子整理旧硬盘时，我意外发现了一些被岁月封存的文件。那是二十多年前无意中保存下来的一些帖子，其中有我当年的文字，更多是素不相识的网友们讲述的、发生在上个世纪的琐碎往事。既然因缘际会与它们重逢，我便决定将这些文字重新编辑整理，发表于此。
+While organizing an old hard drive a few days ago, I unexpectedly discovered some files sealed by time. They were some posts accidentally saved more than twenty years ago, among which were my writings from that year, but more were trivial past events from the last century recounted by strangers on the internet. Since fate brought me to reunite with them, I decided to re-edit and compile these texts and publish them here.
 
-编选此集，既是对那个一去不返的论坛时代的纪念，也是想借此证明：每一个平凡的生命，都曾在尘世中点亮过属于自己的微光。纵使无人喝彩，纵使转瞬即逝。
+Compiling this collection is not only a commemoration of that bygone forum era but also an attempt to prove through this: every ordinary life has once lit up its own glimmer in the mortal world. Even if no one cheers, even if it is fleeting.
 
-是为序。
+This serves as the preface.
