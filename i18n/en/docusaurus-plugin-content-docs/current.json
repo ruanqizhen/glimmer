@@ -4,15 +4,15 @@
     "description": "The label for version current"
   },
   "sidebar.tutorialSidebar.link.GitHub 项目": {
-    "message": "GitHub 项目",
+    "message": "GitHub Repository",
     "description": "The label for link 'GitHub 项目' in sidebar 'tutorialSidebar', linking to 'https://github.com/ruanqizhen/glimmer'"
   },
   "sidebar.tutorialSidebar.link.作者个人主页": {
-    "message": "作者个人主页",
+    "message": "Author's Homepage",
     "description": "The label for link '作者个人主页' in sidebar 'tutorialSidebar', linking to 'https://qizhen.xyz'"
   },
   "sidebar.tutorialSidebar.doc.序": {
-    "message": "序",
+    "message": "Preface",
     "description": "The label for the doc item '序' in sidebar 'tutorialSidebar', linking to the doc README"
   }
 }
