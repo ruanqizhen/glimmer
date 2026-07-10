@@ -38,6 +38,7 @@ const config = {
           sidebarCollapsed: false,
           // Please change this to your repo.
           editUrl: 'https://github.com/ruanqizhen/glimmer/edit/main/',
+          editLocalizedFiles: true,
           routeBasePath: '/',
           path: './docs',
           remarkPlugins: [math],
