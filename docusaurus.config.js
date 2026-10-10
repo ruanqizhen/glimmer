@@ -97,6 +97,34 @@ const config = {
         { name: 'description', content: '收录了早年偶然保存的一些网友自传文章，真实记录上个世纪中国普通百姓的家长里短，和个人同期科幻习作。' },
         { name: 'author', content: 'Qizhen Ruan 阮奇桢' },
       ],
+      footer: {
+        style: 'dark',
+        links: [
+          {
+            title: '本站',
+            items: [
+              {
+                label: '返回主页',
+                href: 'https://qizhen.xyz',
+              },
+              {
+                label: 'GitHub',
+                href: 'https://github.com/ruanqizhen',
+              },
+            ],
+          },
+          {
+            title: '许可',
+            items: [
+              {
+                label: 'MIT License',
+                href: 'https://github.com/ruanqizhen/glimmer/blob/main/LICENSE',
+              },
+            ],
+          },
+        ],
+        copyright: `Copyright © 2026 阮奇桢`,
+      },
     }
   ),
   plugins: [
