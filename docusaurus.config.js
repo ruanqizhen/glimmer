@@ -92,6 +92,7 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
       zoomSelector: '.markdown img',
+      image: 'img/social-card.png',
       metadata: [
         { name: 'keywords', content: '尘世微光, 民间历史, 草根自传, 互联网记忆, 论坛时代, 纪实文学, 科幻习作' },
         { name: 'description', content: '收录了早年偶然保存的一些网友自传文章，真实记录上个世纪中国普通百姓的家长里短，和个人同期科幻习作。' },
