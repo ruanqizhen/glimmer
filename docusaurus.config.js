@@ -11,6 +11,12 @@ const config = {
   tagline: '上世纪草根百姓自传辑录',
   url: 'https://glimmer.qizhen.xyz',
   baseUrl: '/',
+  // Match how the host serves pages: Cloudflare Pages redirects /w01 to
+  // /w01/, but without this Docusaurus emits canonical/sitemap URLs without
+  // the trailing slash, so every canonical pointed at a redirect and Search
+  // Console reported "Alternate page with proper canonical tag" / "Duplicate,
+  // Google chose different canonical than user".
+  trailingSlash: true,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -52,6 +58,10 @@ const config = {
         sitemap: {
           changefreq: 'weekly',
           priority: 0.5,
+          // /search is a thin client-side utility page, not content.
+          // (With trailingSlash: true the route paths end with a slash,
+          // so the patterns must include it to match.)
+          ignorePatterns: ['/search/', '/en/search/'],
         },
         gtag: {
           trackingID: 'G-9EFRGQK2N0',
